@@ -18,17 +18,17 @@ I extend a special shoutout to Motaseam Yousef for his unwavering support and gu
 Dive deeper into the project and its findings on:
 
 - [GitHub](https://lnkd.in/ewjnSksW)
-- [Google Colab](https://lnkd.in/ejfW_qDV)
+- [Google Colab](https://colab.research.google.com/drive/1rxNJePKGZdsnjP7h1AR-TIzjZHoRCN_O?usp=sharing)
 
 ## Project Visuals 📸
 
-![Data Exploration](https://example.com/data_exploration.png)
+![Data Exploration](https://github.com/fa91dadsai/01.DA-healthcare-dataset-stroke/blob/main/Accuracy%20of%205%20Algorethem.png)
 *Exploring the dataset with Python*
 
-![Machine Learning](https://example.com/machine_learning.png)
+![Machine Learning](https://github.com/fa91dadsai/01.DA-healthcare-dataset-stroke/blob/main/Box%20Plot%20of%20Avg%20glucose%20after%20%20handeling%20outliers.png)
 *Building machine learning models*
 
-![Data Visualization](https://example.com/data_visualization.png)
+![Data Visualization](https://github.com/fa91dadsai/01.DA-healthcare-dataset-stroke/blob/main/Distribution%20of%20BMI%20after%20handeling%20outliers.png)
 *Visualizing key insights*
 
 I eagerly welcome your thoughts and feedback. Let's continue the journey of data-driven discovery! 📈💡 #DataScience #HealthcareAnalysis #StrokePrediction #Python #ShaiForAI
