@@ -32,7 +32,3 @@ Dive deeper into the project and its findings on:
 
 
 I eagerly welcome your thoughts and feedback. Let's continue the journey of data-driven discovery! 📈💡 #DataScience #HealthcareAnalysis #StrokePrediction #Python #ShaiForAI
-
----
-
-In this revised version, I added sections for project visuals and provided placeholders for images. You can host the images on a platform like Imgur or another image hosting service and replace the "https://example.com" URLs with the actual image URLs you choose to use. This will give your README a professional and visually appealing touch.
