@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 <head>
     <title>Insights into Stroke Healthcare Data</title>
 </head>
@@ -46,3 +49,6 @@
 
     <p>I eagerly welcome your thoughts and feedback. Let's continue the journey of data-driven discovery! 📈💡
         #DataScience #HealthcareAnalysis #StrokePrediction #Python #ShaiForAI</p>
+</body>
+
+</html>
